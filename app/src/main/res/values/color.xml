@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#BABABA</color>
+    <color name="list_background_pressed">#fff</color>
+    <color name="list_divider">#000</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+
+
+    <color name="easter_color_1">#D6F6DD</color>
+    <color name="easter_color_2">#DAC4F7</color>
+    <color name="easter_color_3">#F4989C</color>
+    <color name="easter_color_4">#EBD2B4</color>
+    <color name="easter_color_5">#ACECF7</color>
+
+    <color name="soft_color_1">#FFAC81</color>
+    <color name="soft_color_2">#FF928B</color>
+    <color name="soft_color_3">#FEC3A6</color>
+    <color name="soft_color_4">#EFE9AE</color>
+    <color name="soft_color_5">#CDEAC0</color>
+
+    <color name="girl_color_1">#002500</color>
+    <color name="girl_color_2">#929982</color>
+    <color name="girl_color_3">#EDCBB1</color>
+    <color name="girl_color_4">#B7245C</color>
+    <color name="girl_color_5">#7C3238</color>
+
+    <color name="summer_color_1">#BF211E</color>
+    <color name="summer_color_2">#E9CE2C</color>
+    <color name="summer_color_3">#F9DC5C</color>
+    <color name="summer_color_4">#E5F993</color>
+    <color name="summer_color_5">#69A197</color>
+
+    <color name="warm_color_1">#84E7D4</color>
+    <color name="warm_color_2">#75ADD2</color>
+    <color name="warm_color_3">#584982</color>
+    <color name="warm_color_4">#22392F</color>
+    <color name="warm_color_5">#02260C</color>
+</resources>

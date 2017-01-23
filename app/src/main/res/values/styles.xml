@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
+    <style name="easter_theme" parent="AppTheme">
+        <item name="color_1">@color/easter_color_1</item>
+        <item name="color_2">@color/easter_color_2</item>
+        <item name="color_3">@color/easter_color_3</item>
+        <item name="color_4">@color/easter_color_4</item>
+        <item name="color_5">@color/easter_color_5</item>
+    </style>
+
+    <style name="soft_theme" parent="AppTheme">
+        <item name="color_1">@color/soft_color_1</item>
+        <item name="color_2">@color/soft_color_2</item>
+        <item name="color_3">@color/soft_color_3</item>
+        <item name="color_4">@color/soft_color_4</item>
+        <item name="color_5">@color/soft_color_5</item>
+    </style>
+
+    <style name="girl_theme" parent="AppTheme">
+        <item name="color_1">@color/girl_color_1</item>
+        <item name="color_2">@color/girl_color_2</item>
+        <item name="color_3">@color/girl_color_3</item>
+        <item name="color_4">@color/girl_color_4</item>
+        <item name="color_5">@color/girl_color_5</item>
+    </style>
+
+    <style name="summer_theme" parent="AppTheme">
+        <item name="color_1">@color/summer_color_1</item>
+        <item name="color_2">@color/summer_color_2</item>
+        <item name="color_3">@color/summer_color_3</item>
+        <item name="color_4">@color/summer_color_4</item>
+        <item name="color_5">@color/summer_color_5</item>
+    </style>
+
+    <style name="warm_theme" parent="AppTheme">
+        <item name="color_1">@color/warm_color_1</item>
+        <item name="color_2">@color/warm_color_2</item>
+        <item name="color_3">@color/warm_color_3</item>
+        <item name="color_4">@color/warm_color_4</item>
+        <item name="color_5">@color/warm_color_5</item>
+    </style>
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <TextView
+        android:id="@+id/instruction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Let's change your password"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:paddingLeft="5dp"
+        android:paddingTop="5dp" />
+
+    <TextView
+        android:id="@+id/error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="password incorrect"
+        android:textSize="15dp"
+        android:textColor="#ff2125"
+        android:paddingLeft="5dp"
+        android:paddingTop="5dp" />
+
+    <EditText
+        android:id="@+id/oldPass"
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:hint="current password"
+        android:layout_height="wrap_content" >
+
+        <requestFocus />
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/newPass"
+        android:inputType="textPassword"
+        android:hint="new password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <requestFocus />
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/confirmPass"
+        android:inputType="textPassword"
+        android:hint="confirm new password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <requestFocus />
+
+    </EditText>
+
+</LinearLayout>
